@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently study in Xiamen University
+- 🔭 I’m currently study in Fujian Normal University
